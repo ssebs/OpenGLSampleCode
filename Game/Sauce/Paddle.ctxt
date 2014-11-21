@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=ex\ wy\ wi\ hi\ re\ ge\ be\ name
+comment0.target=Paddle(int,\ int,\ int,\ int,\ double,\ double,\ double,\ java.lang.String)
+comment0.text=\n\ @param\ ex\n\ @param\ wy\n\ @param\ wi\n\ @param\ hi\n\ @param\ re\n\ @param\ ge\n\ @param\ be\n
+comment1.params=name
+comment1.target=void\ loadTexture(java.lang.String)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=s
+comment3.target=void\ setSpeed(int)
+comment4.params=
+comment4.target=void\ moveUp()
+comment4.text=\n\ moves\ the\ paddle\ up\n
+comment5.params=
+comment5.target=void\ moveDown()
+comment5.text=\n\ moves\ the\ paddle\ down\n
+numComments=6

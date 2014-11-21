@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ex\ wy\ wi\ hi\ re\ ge\ be
+comment0.target=Block(int,\ int,\ int,\ int,\ double,\ double,\ double)
+comment0.text=\n\ @param\ ex\n\ @param\ wy\n\ @param\ wi\n\ @param\ hi\n\ @param\ re\n\ @param\ ge\n\ @param\ be\n
+comment1.params=
+comment1.target=void\ draw()
+comment1.text=\n\ draws\ the\ rectangle\n
+comment2.params=
+comment2.target=boolean\ isVisible()
+comment2.text=\n\ @return\ if\ its\ visible\n
+comment3.params=bool
+comment3.target=void\ setVisible(boolean)
+comment3.text=\n\ @param\ bool\n
+numComments=4
