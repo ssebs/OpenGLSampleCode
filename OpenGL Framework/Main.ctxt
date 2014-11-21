@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ run()
+comment1.params=
+comment1.target=void\ init()
+comment1.text=\n\ initializes\ multiple\ things\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\n\ first\ method\ that\ is\ called;\ holds\ game\ loop\n
+comment3.params=
+comment3.target=void\ render()
+comment4.params=
+comment4.target=void\ gamePlay()
+comment4.text=\n\ does\ all\ game\ rules/etc\n
+comment5.params=
+comment5.target=void\ texture1()
+comment5.text=\n\ creates\ background\ texture\n
+comment6.params=
+comment6.target=void\ pollInput()
+comment6.text=\n\ checks\ the\ input\ of\ the\ controlls\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment7.text=\n\ @param\ args\n
+numComments=8
